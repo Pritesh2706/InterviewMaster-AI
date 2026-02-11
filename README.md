@@ -1,4 +1,4 @@
-##📘 InterviewMaster AI
+📘 InterviewMaster AI
 
 AI-Powered Mock Interview Simulator with Evaluation, Score, and Reports
 
